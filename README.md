@@ -1,3 +1,4 @@
 # Encryption and Decryption of Data
-Encryption and Decryption of data in C# using google otp.
+Encryption and Decryption of data in C# using Gmail.
+
 
